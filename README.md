@@ -5,7 +5,7 @@ Create, view, delete virtual host with shell script in mac.
 Open your terminal and create a shortcut. If you forget, then below is an example.
 
 ```
-ln -s \u\usermac\Desktop\virtualhost \user\local\bin
+ln -s /Users/usermac/Desktop/virtualhost /usr/local/bin 
 ```
 ## Examples
 After installation just enter the terminal and run the following commands.
